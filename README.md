@@ -1,2 +1,0 @@
-# qualys
-Installation File
